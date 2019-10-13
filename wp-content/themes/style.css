@@ -1,0 +1,12 @@
+.testowy{
+	
+	width:1000px;
+	height:200px;
+	background-color:#ff5d00;
+	transition:width 3s;
+	transition-timing-function: cubic-bezier(0,0,1,1);
+}
+.testowy:hover{
+	width:2000px;
+	
+}
